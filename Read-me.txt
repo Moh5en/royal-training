@@ -1,0 +1,16 @@
+This will be is test project to push into the following git repository
+
+https://github.com/Moh5en/royal-training-git.git
+
+The following command will be use
+
+
+
+git remote add origin https://github.com/Moh5en/royal-training-git.git
+git push --set-upstream origin master
+
+This is well explained here
+
+https://www.theserverside.com/video/How-to-use-the-git-remote-add-origin-command-to-push-remotely
+
+
