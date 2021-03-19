@@ -1,5 +1,37 @@
-.center{
-    align-items: center;
-    align-content: center;
-    text-align: center;
+.center {
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+.row3-body-text {
+  color: #808080;
+  font-family: sans-serif;
+  font-size: em;
+  text-align: center;
+}
+
+#fast-performance {
+  color: Fuchsia;
+  font-family: sans-serif;
+  font-size: em;
+  text-align: center;
+}
+
+#prototyping {
+  color: #0073e6;
+  font-family: sans-serif;
+  font-size: em;
+  text-align: center;
+}
+
+#vector-editing {
+  color: #006600;
+  font-family: sans-serif;
+  font-size: em;
+  text-align: center;
+}
+
+.align-center {
+  align-content: center;
 }
